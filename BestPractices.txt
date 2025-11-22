@@ -1,0 +1,32 @@
+Best Practices
+	Titel
+		De titel beschrijft kort en bondig de toepassingsvorm van de omgeving en context waarin de omgeving gebruikt is. 
+	Introductie
+		De introductie geeft een korte beschrijving van de titel in de vorm van een typering van de omgeving en de wijze waarop de good practice in algemene vorm gebruikt kan worden. Hierbij kan het bijvoorbeeld gaan om een cursusomgeving voor een masteropleiding, een projectomgeving voor een SURFnet project.
+	Wat is het?
+		In dit onderdeel wordt het doel van de omgeving beschreven en de reden waarom voor een omgeving als oplossing is gebruikt. Hierbij kan het bijvoorbeeld gaan om samenwerking of informatievoorziening. Er wordt kort beschreven in welke context de omgeving is gebruikt. Het gaat hier om een korte casusbeschrijving waarin de omgeving zich bewezen heeft.
+	Waarom is dit een best practice?
+		In dit onderdeel wordt beschreven waarom de omgeving kan worden aangemerkt als good practice. Bij het beschrijven van good practices worden de volgende criteria aangehouden: 
+			Generaliseerbaar 
+			Waar hebben anderen iets aan? 
+			Toepasbaar op onderwijs onderzoek en of projecten 
+			Zelfstandig te gebruiken 
+			Beknopt 
+			Realistisch 
+			Concreet 
+			Zelfstandig leesbaar 
+			Stimulerend 
+			In de praktijk gebruikt en geevalueerd zijn , door middel van een contextbeschrijving, eventueel in de vorm van een video. Ontwerpkeuzes 
+			Afgerond geheel
+			Deze criteria kunnen tijdens de beschrijving ook aangehouden.
+	Voor wie is het?
+		In dit onderdeel wordt de primaire doelgroep aangeven zoals bijvoorbeeld onderwijs, onderzoek of projecten, maar ook welke rollen zijn gedefinieerd en hoe die terugkomen in relatie met de SURFgroepenomgeving. Hierbij wordt ook aangegeven voor hoeveel verschillende gebruikers de omgeving is gebruikt en in hoeverre de beheersbaarheid in de hand is gehouden.
+	Wat kan ik ermee?
+		In dit onderdeel worden de functionaliteiten beschreven die in de omgeving zijn gebruikt. Hierbij wordt ook omschreven wat het doel van de functionaliteiten is en hoe ze in de praktijk gebruikt zijn.
+	Welke web parts zijn gebruikt?
+		In dit onderdeel wordt aangegeven welke web parts gebruikt zijn en in hoeverre ze aangepast zijn voor het gebruik in de omgeving. Hoe de aanpassingen zijn gemaakt is te vinden in de kennisbasis voor SURFgroepen of wordt uitgelegd in de workshops die SURFnet aanbiedt. Hiervoor kunnen dan ook verwijzingen worden aangemaakt naar de desbetreffende artikelen en workshops.
+	Welke sjablonen zijn gebruikt?
+		In dit onderdeel wordt aangegeven welke sjablonen gebruikt zijn als basis voor de omgeving en in hoeverre er aanpassingen zijn gemaakt. Als sjablonen direct te gebruiken zijn, dan zijn ook verwijzingen beschikbaar naar de sjablonen.
+	Voorbeeldomgeving?
+		Zo mogelijk worden verwijzingen gemaakt naar een voorbeeldomgeving. Indien dit om om bepaalde redenen niet mogelijk is kan een set van schermafdrukken worden toegevoegd om de Good practice te visualiseren
+	

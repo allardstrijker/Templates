@@ -1,0 +1,43 @@
+Probleemoplossen
+	Problemen signaleren, analyseren en definiëren 
+	Strategieën kennen en hanteren om met onbekende problemen om te gaan
+	Oplossingsstrategieën genereren, analyseren en selecteren
+	Patronen en modellen creeëren
+	Beargumenteerde beslissingen nemen
+Creativiteit
+	Orienteren
+	Onderzoeken
+	Uitvoeren
+	Evaluatie
+	Reflectie
+Basisvaardigheden ICT
+	Basisbegrippen - Basiskennis ICT richt zich op het kennen van basisbegrippen en functies van computers en computernetwerken.
+	Hardware - Het kunnen benoemen, aansluiten en bedienen van hardware
+	Kantoortoepassingen - Het kunnen omgaan met standaard kantoortoepassingen
+	Mobiel - Het kunnen omgaan met softwareprogramma's op mobiele apparaten
+	Internet - Het kunnen werken met internet (browsers, e-mail)
+	Privacy en veiligheid - Op de hoogte zijn van en kunnen omgaan met beveiligings- en privacyaspecten
+Computational thinking
+	Probleemanalyse (Probleemdefinitie)
+	Data Collection (Gegevensverzameling)
+	Data Analysis (Gegevensanalyse)
+	Data Representation (Gegevensvisualisatie)
+	Problem Decomposition (Taakanalyse)
+	Abstraction (Samenvatten)
+	Algorithms & Procedures (Algoritmes en procedures)
+	Automation (Automatisering)
+	Simulation (Simulatie en modellering)
+	Parallelization (Werkstromen)
+Mediawijsheid
+	Medialisering van de samenleving
+	Produceren van media
+	Media en de werkelijkheid
+	Media en technologische ontwikkeling
+	Media en informatievaardigheden
+	Media, identiteit en privacy
+Informatievaardigheden
+	Definiëren van het probleem
+	Zoeken naar bronnen en informatie
+	Selecteren van bronnen en informatie
+	Verwerken van informatie
+	Presenteren van informatie	

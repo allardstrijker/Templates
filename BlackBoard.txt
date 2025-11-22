@@ -1,0 +1,78 @@
+Blackboard
+	Cursus
+		Nieuws 
+		Cursusinformatie 
+		Docenten 
+		Rooster 
+		Cursusmaterialen 
+		Opdrachten 
+		My Grades 
+		Email 
+		Groepen 
+		Unenroll 
+	Course Map
+		Course Map
+		Control Panel
+		Refresh
+		Detail View
+	Control Panel
+		Content Areas 
+			Cursusinformatie  
+			Rooster  
+			Cursusmaterialen  
+			Extra Materials  
+			Opdrachten  
+			Extra materialen  
+		Course Tools 
+			Announcements  
+			Staff Information  
+			Tasks  
+			Send Email  
+			Discussion Board  
+			Collaboration  
+			Glossary Manager  
+		Content Collection  
+			Add Users by Role  
+			List All Users  
+			Advanced Group Tool  
+			Batch Enroll Users  
+			Ephorus Assignment  
+			Unenroll Tool  
+	    Course Options 
+			Manage Course Menu  
+			Course Design  
+			Manage Tools  
+			Settings  
+			Recycle Course  
+		Course Copy  
+			Import Course Cartridge  
+			Import Package  
+			Export Course  
+			Archive Course  
+		User Management 
+			List / Modify Users  
+			Create User  
+			Batch Create Users  
+		Enroll User  
+			Remove Users from Course  
+			Manage Groups  
+		Assessment 
+			Test Manager  
+			Survey Manager  
+			Pool Manager  
+			Course Statistics  
+		Grade Center  
+			Performance Dashboard  
+			Early Warning System  
+		Help 
+			Support  
+			Manual  
+		Contact System Administrator  
+			Quick Tutorials  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

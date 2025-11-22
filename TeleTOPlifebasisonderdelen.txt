@@ -1,0 +1,34 @@
+TeleTOP life basisonderdelen
+	Vaksite
+		Studieplanner, Studiewijzer, Studieplanner, Werkwijzer, Rooster
+		Informatie, vakinformatie
+		Leermiddelen
+		Opdrachten
+		Ingeleverd werk
+		Beoordeeld werk
+		Werkruimte
+		Groepen en Personen
+	Projecten
+		Informatie
+		Leden
+	Bekwaamheidsdossier
+	Portfolio
+		
+	Mentoromgeving
+	Persoonlijke werkplaats (mijn site)
+		Persoonlijke documenten
+		Gedeelde documenten
+		Profiel
+		Collega's
+	Algemene onderdelen
+		SCORM, IMS player (SLK)
+		Zoeken en gebruiken (SRU/SRW, Wiki, RSS, YouTube,
+		Charts 
+		Video
+		Online editor
+		Skype Awareness
+		Chat
+		Grafische User Interface
+		Content management
+		Site management
+		Aggregatie

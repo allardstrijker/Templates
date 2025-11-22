@@ -1,0 +1,8 @@
+1  fragment
+	Een leerobject van niveau 1 bestaat uit een enkele component en kent één vormaspect.  
+2  informatieeenheid / toets  
+	Een leerobject van niveau 2 bestaat uit meerdere componenten (leerobjecten van niveau 1) met één of meerdere vormaspecten waarbij de inhoudelijke context waarbinnen het leerobject begrepen moet worden is toegevoegd.  
+3  leereenheid
+	Een leerobject van niveau 3 bestaat uit meerdere componenten (leerobjecten van niveau 1 en 2) met één of meerdere vormaspecten waarbij naast de inhoudelijke context ook een didactische context is toegevoegd.  
+4  certificeerbare eenheid
+	Een leerobject van niveau 4 bestaat uit meerdere componenten (leerobjecten van niveau 1, 2, 3 of 4) met meerdere vormaspecten waarbij naast de inhoudelijke context en didactische context na het leren via het leerobject een erkend (deel)certificaat kan worden behaald.  

@@ -1,0 +1,31 @@
+21e vaardigheden
+	Mediawijsheid
+		Begrip
+			inzicht
+			hoe gemaakt
+			hoe werkelijkheid kleuren
+		Gebruik
+			Apparaten, software en toepassingen gebruiken*
+			oriënteren
+		Communicatie
+			informatie vinden en verwerken*
+			content creëren
+		Strategie
+			reflecteren
+			doelen realiseren
+	Informatievaardigheden
+		Het kunnen signaleren en analyseren van een informatiebehoefte en op basis hiervan het kunnen zoeken, selecteren, verwerken en gebruiken (toepassen) van relevante informatie
+			definiëren van het probleem
+			zoeken naar bronnen en informatie
+			selecteren van bronnen en informatie,
+			verwerken van informatie
+			presenteren van informatie
+	Computational Thinking
+		is een fundamentele vaardigheid die informaticaconcepten over probleemformulering en gegevensorganisatie, -analyse en -representatie gebruikt voor het oplossen van (niet informatica) problemen met behulp van ICT technieken en gereedschappen
+	Basiskennis ICT:
+		basisbegrippen en functies computers en netwerken
+		internet
+		productiviteitsprogramma's
+		beveiliging en privacy
+
+

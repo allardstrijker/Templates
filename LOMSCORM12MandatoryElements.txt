@@ -1,0 +1,36 @@
+SCORM 1.2 Mandatory Elements
+	Asset Metadata
+		1.0 general
+			1.2 title
+			1.5 description
+		3.0 metametadata
+			3.4 metadatascheme
+		4.0 technical
+			4.1 format
+			4.3 location
+		6.0 rights
+			6.1 cost
+			6.2 copyrightsandotherrestrictions
+	Content Aggregation and SCO Mandatory Elements
+		1.0 general
+			1.2 title
+			1.3 catalogentry
+				1.3.1 catalog
+				1.3.2 entry
+			1.5 description
+			1.6 keyword
+		2.0 lifecycle
+			2.1 version
+			2.2 status
+		3.0 metametadata
+			3.4 metadatascheme
+		4.0 technical
+			4.1 format
+			4.3 location
+		6.0 rights
+			6.1 cost
+			6.2 copyrightsandotherrestrictions
+		9.0 classification
+			9.1 purpose
+			9.3 description
+			9.4 keyword

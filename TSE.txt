@@ -1,0 +1,84 @@
+TeleTOP life voor TSE
+	Mededelingen
+	Introductie
+	Opleidingsinformatie
+	Mijn Onderwijs
+		Mededelingen
+			Bijlagen
+			Volgorde
+			Titel
+			Omschrijving
+			Categorie
+			Gemaakt door
+			Gemaakt
+			Gewijzigd door
+			Gewijzigd		
+		Organisatie
+			Bijlagen
+			Volgorde
+			Titel
+			Omschrijving
+			Categorie
+		Studiewijzer
+			Bijlagen
+			Volgorde
+			Titel
+			Omschrijving
+			Startdatum
+			Einddatum
+			Periode
+			Week
+			Voor de sessie
+			Tijdens de sessie
+			Na de sessie
+			Plaats en tijd
+			Opdrachten
+			Leermiddelen
+			Categorie
+			Gemaakt door
+			Gemaakt
+			Gewijzigd door
+			Gewijzigd
+		Opdrachten
+		Ingeleverd werk
+		Beoordeeld werk
+		Leermiddelen
+		Samenwerken
+	Mijn Projecten
+		Organisatie
+		Project
+			Functionaliteiten
+			Mededelingen
+			Organisatie
+			Planning
+			Taken
+			Projectdocumenten
+			Documenttype
+			Projectfasen
+	Mijn Tutoromgeving
+		Organisatie
+		Tutoromgeving
+			Mededelingen
+			Organisatie
+			Studiewijzer
+			Opdrachten
+			Ingeleverd werk
+			Beoordeeld werk
+			Leermiddelen
+			Reflecties
+			Samenwerken
+	Mijn Bekwaamheidsdossiers
+		Organisatie
+		Bekwaamheidsdossier
+			Startpagina
+			Functionaliteiten
+			Introductie
+			Bewijsstukken
+			Beroepsidentiteit
+			Curriculum vitea
+			Persoonlijk ontwikkelingsplan
+			Rapportage
+	Mijn Collectie
+		Persoonlijke documenten
+		Gedeelde documenten
+

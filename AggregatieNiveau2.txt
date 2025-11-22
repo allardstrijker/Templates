@@ -1,0 +1,8 @@
+Fragment
+	Het laagste niveau is een "fragment". Dit is leermateriaal dat los staat van een bepaalde inhoudelijke en didactische context, bijvoorbeeld onbewerkte mediagegevens zoals een enkel plaatje. 
+informatie-object
+	Een "informatie-object" is een verzameling van fragmenten van niveau 1 die bij elkaar horen. 
+leereenheid
+	Een "leereenheid" is een verzameling van leerobjecten van niveau 2, die samen een afgeronde hoeveelheid leerstof vormen. Een leereenheid kent ook een vorm van didactische sturing. 
+module / cursus
+	"Een module / cursus" vormt het hoogste niveau, bijvoorbeeld een verzameling cursussen die tot een certificaat leiden. 

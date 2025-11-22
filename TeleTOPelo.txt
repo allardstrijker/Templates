@@ -1,0 +1,220 @@
+TeleTOP elo
+	Organisatie 
+		Onderdeel Status Flexibele rechten Label Alternatieve link Open link in 
+		Nieuws  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Rooster  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Opdrachten  
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Inschrijvingen  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Informatie  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Deelnemers  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Administratie & Resultaten  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten      
+		Eigen link 1  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten       
+	Communicatie 
+		Onderdeel Status Flexibele rechten Label Alternatieve link Open link in 
+		Forums  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Vraag en antwoord  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Polls  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Enquêtes  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Eigen link 2  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten       
+	Samenwerken 
+		Onderdeel Status Flexibele rechten Label Alternatieve link Open link in 
+		Werkplaatsen  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Presentaties  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Eigen link 3  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten       
+	Leermiddelen 
+		Onderdeel Status Flexibele rechten Label Alternatieve link Open link in 
+		Leermiddelen  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Bestanden  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Begrippenlijst  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Webpagina's  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Publicaties  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		QMP Toetsen  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Toetsen  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		WebKwesties  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Weblinks  
+			Ja
+			Nee
+			Student mag ook toevoegen
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Eigen link 4  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten       
+	Extra 
+		Onderdeel Status Flexibele rechten Label Alternatieve link Open link in 
+		Feedback  
+			Nee
+			Alleen zichtbaar voor docent  
+			Geen 
+			Docentrechten (m.u.v. verwijderen)
+			Docentrechten       
+		Prullenbak  
+			Nee
+			Alleen zichtbaar voor docent  
+			Geen Docentrechten (m.u.v. verwijderen)       
+		Eigen link 5  
+			Ja
+			Nee
+			Alleen zichtbaar voor docent
+			Studentrechten
+			Docentrechten       
+		Instellingen 
+			Alleen zichtbaar voor docent  
+			Geen Docentrechten

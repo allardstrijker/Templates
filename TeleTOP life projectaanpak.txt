@@ -1,0 +1,167 @@
+TeleTOP life projectaanpak
+	Projectinitiatie
+		Projectomschrijving 
+		Project eis
+		Projectorganisatie
+		Kwaliteitstoetsing
+		Projectplanning
+		Beheersingsmechanismen
+		Risicoinventarisatie
+		Projectarchief 
+	Visie
+		Missie en Visiedocument ICT & Onderwijs 
+		Teamplannen ICT en onderwijs
+		ICT analyse document
+		Adviesrapport vervolgtraject 
+	ontwerp
+		Adviesrapport producten- en diensten
+		Functioneel/ Technisch Ontwerp
+		Onderwijskundig Ontwerp
+		Organisatorisch Ontwerp
+	realisatie
+		Onderwijskundige producten
+		Technische producten:
+		Organisatorische producten
+		Offertes
+	Reflectie
+		Meerjaren ICT beleidsplan
+		SWOT analyse
+		Implementatie- embedding rapport
+	Fasen
+		Fase 0 Projectinitiatie
+			Omschrijving
+				In deze fase wordt een projectinitiatie document (PID) opgesteld. Een raamwerk waarbinnen dit project wordt uitgevoerd. 
+			Projectinitiatiedocument
+				Projectomschrijving 
+					doelstellingen 
+					omvang
+					plan van aanpak  
+					resultaat 
+					randvoorwaarden
+					 samenhang met andere projecten
+				Project eis
+					Motivering  om het project te starten (rechtvaardiging)
+					De verwachte voordelen voor de organisatie
+					Kosten
+					Baten
+					Investeringsanalyse 
+						Wijze van bekostiging interne of externe gelden
+						Kostenbeheersingmechanisme
+						Deadlines m.b.t. investeringen/ subsidies
+				Projectorganisatie in een organigram
+					Organigram van de organisatie
+					Organigram van de projectgroep
+					Definiëren van doelgroepen die in de projectgroep zitting hebben
+					Taak- en verantwoordelijkheidsomschrijvingen van de betrokkenen
+					Communicatiestructuur
+				Kwaliteitstoetsing
+					Kwaliteitskader vaststellen
+					toetsingsinstrumenten beschrijven (Balanced Change Card)
+					Kritische succesfactoren (KSF)
+				Projectplanning
+					formuleren van de projectplanning
+						 Start van het project en einde vaststellen
+						Oplevermomenten van diverse producten of diensten vastleggen
+						 Evaluatiemomenten plannen
+				Beheersingsmechanismen (hoe wordt het project onder controle gehouden)
+					toleranties
+					Tijd- en kostenrapportages 
+					Voortgangsrapportages
+					Kwaliteitsrapportages
+					Procedure m.b.t.  afwijking van de tolerantie (Management by Exception)
+				Risicoinventarisatie
+					Inventarisatie van interne en externe risico's
+					Omschrijving  wie verantwoordelijk voor welk risicodeel
+					Gevolgen van risico's omschrijven
+				Projectarchief 
+					Waar worden de documenten bewaard
+					Wat wordt er in het projectarchief bewaard
+					Welke namen en versie typeringen worden gebruikt
+					Door wie worden de projectdocumenten beheerd
+					Wie hebben toegang tot het projectarchief
+		Fase 1 Visie
+			In deze fase wordt de algemene visie van de school in relatie tot ICT beschreven. De producten geven een dwarsdoorsnede van uw bedrijf op het gebied van ICT en onderwijs.  De mijlpaalproducten vormen de basis voor de ontwerpfase. Na deze fase kan de opdrachtgever  het traject beëindigen. 
+			Producten:
+				Missie en Visiedocument ICT & Onderwijs 
+				Teamplannen ICT en onderwijs
+				SWOT analyse (strengts&weakness/ opportunities&treats) d.m.v.  I score, VOspiegel, kwaliteitsscholen, 4 in balans, Balanced Score Card 
+				Adviesrapport vervolgtraject (= Plan van Aanpak)
+		Fase 2 Ontwerp
+			In deze fase wordt de visie vertaald naar een onderwijskundig, technisch of organisatorisch ontwerp. Vanuit ons bedrijfsportfolio leveren wij maatwerk oplossingen die aansluiten bij de visie van de school. Na deze fase kan de opdrachtgever het traject beëindigen.
+			Producten:
+				Adviesrapport producten- en diensten
+				Functioneel/ Technisch Ontwerp
+				Onderwijskundig Ontwerp
+				Organisatorisch Ontwerp
+				Offertes
+		Fase 3 Realisatie
+			Op basis van de documenten uit de  ontwerpfase worden de (maatwerk)oplossingen gerealiseerd en geïmplementeerd in de organisatie. 
+			onderwijskundige producten
+				Opleidings- en instructiematerialen
+				workshops
+					Starten met TeleTOP elo
+					Starten met TeleTOP life
+					Assessmentcenter
+					Train de trainer trajecten (iCoach)
+						Implementatie TeleTOP
+						Wintoets basistraining
+						Leermiddelen zelf ontwikkelen
+					Smart/ Activ board in het onderwijs
+					Video in het onderwijs
+					Activerende didactiek m.b.v. een Elo
+					Gecertificeerde Wintoets trainingen
+					Studiedagen voor personeel
+					Maatwerktrainingen op het gebied van digitale didactiek
+			technische producten:
+				Licentieomschrijvingen
+				Programma's / installatiescripts
+					Microsoft SharePoint
+					Webparts (klassenboek,……….)
+					Ephorus plagiaatscanner
+					Kliks?????
+					Schoolsite van UT Twente
+					Edurep
+				Onderhoud & Support 
+				Handleidingen 
+				SLA 
+			Organisatorische producten
+				Communicatieplan
+				Embedding plan
+				Geïmplementeerde oplossing 
+				Opgeleide/ gecertificeerde medewerkers
+		Fase 4 Reflectie
+			In deze fase wordt het project afgerond waarbij de kritische succesfactoren, verwachtingen, opbrengsten worden geëvalueerd. Aan het einde van het traject moet er een positiebepaling plaatsvinden.  De resultaten geven een beeld van de lange termijn ICT visie, opbrengsten en het al dan niet behalen van kritische succesfactoren.
+			Producten:
+				Meerjaren ICT beleidsplan
+				SWOT analyse (strengts&weakness/ opportunities&treats) d.m.v.  
+					I score, 
+					VOspiegel, 
+					kwaliteitsscholen, 
+					4 in balans, 
+					Balanced Score Card
+				Implementatie- embedding rapport (overdracht van het rapport)
+	Producten en diensten van TeleTOP elearning
+		Algemene omschrijving
+			Wat is het voor en product of dienst.
+			Standaard of maatwerkoplossing
+		Technische omschrijving
+			Welke ondersteunende programma's zijn nodig?
+			Systeemeisen van de hardware
+		Prijsomschrijving
+			Basisprijs 
+			Prijs per user
+			Servicekosten
+			SLA
+			opties
+		Onderwijskundige toepassing
+			Vertaalslag naar de doelgroep met praktische voorbeelden van andere scholen. 
+			Welke concrete toepassingen zijn er mogelijk
+			combinatie met andere producten of diensten.
+		Standaard workshop bij aanschaf product of dienst
+			Beschrijving van de standaard workshops die bij de dienst of product geleverd worden
+			Maximaal aantal deelnemers
+			Interne of externe scholing
+		Additionele workshops
+			Verdiepingworkshops die de geavanceerde mogelijkheden van het product laten zien. Hier moet een duidelijke opbouwende lijn in zitten, zodat klanten terugkomen voor extra mogelijkheden. Nu is dat nog onvoldoende omdat men het niet weet.
+		Bijzonderheden
+		

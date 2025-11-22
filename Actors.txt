@@ -1,0 +1,15 @@
+Actors
+	President/rector/ principal
+	Vice president/vice chancellor/provost/policy advisor
+	Deans
+	ICT steering group 
+	Middle managers/educational managers
+	Chair/head of department
+	Faculty, instructors, teachers
+	Members of staff development unit
+	Members of pedagogical support unit
+	Members of infrastructure and computing unit
+	Staff members of the library
+	Students
+	Ministry of education
+	External institutions

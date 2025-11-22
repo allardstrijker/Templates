@@ -1,0 +1,33 @@
+TeleTOP life voor Surfgroepen
+	Onderwijs
+		Cursus
+			Nieuws
+			Cursusinformatie
+			Rooster
+			Opdrachten
+			Ingeleverd werk 
+			Leermiddelen
+			Documentenwerkplaats
+			Pagina's
+	Portfolio's
+		Portfolio
+			Introductie
+			Curriculum Vitae
+			Persoonlijk Ontwikkelingsplan
+			Beroepsidentiteit
+			Competentieprofiel
+			Reflecties
+			Bewijsstukken
+	Projecten
+		Project
+			Nieuws
+			Projectinformatie
+			Werkpakketten
+			Projectleden
+			Documenttypen
+			Planning
+			Projectfasen
+			Gedeelde Documenten
+		
+		
+		 

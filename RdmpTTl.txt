@@ -1,0 +1,372 @@
+Roadmap TeleTOP
+	2007
+		Technisch
+			Sitesjablonen
+			Workflows
+			Overnemen van functionaliteit bestaande elo's
+			Uitbreiding voor projecten, portfolio's
+		Projecten
+			Pilot Universiteit Twente
+				Pedagogies
+					Mededelingen
+					Cursusinformatie
+					Rooster
+					Opdrachten
+					Ingeleverd werk
+					Beoordeeld werk
+					Leermiddelen
+			Pilot Twente School of Education
+				Mededelingen
+				Introductie
+				Opleidingsinformatie
+				Mijn Onderwijs
+					Mededelingen
+						Bijlagen
+						Volgorde
+						Titel
+						Omschrijving
+						Categorie
+						Gemaakt door
+						Gemaakt
+						Gewijzigd door
+						Gewijzigd		
+					Organisatie
+						Bijlagen
+						Volgorde
+						Titel
+						Omschrijving
+						Categorie
+					Studiewijzer
+						Bijlagen
+						Volgorde
+						Titel
+						Omschrijving
+						Startdatum
+						Einddatum
+						Periode
+						Week
+						Voor de sessie
+						Tijdens de sessie
+						Na de sessie
+						Plaats en tijd
+						Opdrachten
+						Leermiddelen
+						Categorie
+						Gemaakt door
+						Gemaakt
+						Gewijzigd door
+						Gewijzigd
+					Opdrachten
+					Ingeleverd werk
+					Beoordeeld werk
+					Leermiddelen
+					Samenwerken
+				Mijn Projecten
+					Organisatie
+					Project
+						Functionaliteiten
+						Mededelingen
+						Organisatie
+						Planning
+						Taken
+						Projectdocumenten
+						Documenttype
+						Projectfasen
+							0. Projectmanagement
+							1. Vooronderzoek
+							2. Functioneel ontwerp
+							3. Technisch ontwerp
+							3. Test
+							4. Realisatie
+							5. Test
+							6. Implementatie en overdracht
+				Mijn Tutoromgeving
+					Organisatie
+					Tutoromgeving
+						Mededelingen
+						Organisatie
+						Studiewijzer
+						Opdrachten
+						Ingeleverd werk
+						Beoordeeld werk
+						Leermiddelen
+						Reflecties
+						Samenwerken
+				Mijn Bekwaamheidsdossiers
+					Organisatie
+					Bekwaamheidsdossier
+						Startpagina
+						Functionaliteiten
+						Introductie
+						Bewijsstukken
+						Beroepsidentiteit
+						Curriculum vitea
+						Persoonlijk ontwikkelingsplan
+						Rapportage
+				Mijn Collectie
+					Persoonlijke documenten
+					Gedeelde documenten
+			Pilot Willem van Oranje
+				Startpagina
+					Welkom
+					Introductie
+					Logo
+				Klassenboeken
+					Klas
+						Mededelingen
+						Klassenboek
+					Supportblog
+					Vaksites
+						Vak
+							Mededelingen
+							Inleveropdrachten
+							Ingeleverd werk
+							Leermiddelen
+							Personen en groepen	
+		Funtionaliteit
+			Sea Solutions
+				1. Viewstyles
+				2. Contentmanagent
+				3. Barchart
+				4. Video
+				5. Licencing
+				6. Opdrachten
+				7. Basic Site definition
+				8. Document library
+				9. Open social
+				10. OAI
+				11. SRU - SRW
+				12. Wiki
+				13. RSS
+	2008
+		Technisch
+			Opdrachten
+			Provisioning
+			Layout
+			Sitedefinities
+		Projecten
+			TeleTOP life voor Surfgroepen
+				Onderwijs
+					Cursus
+						Nieuws
+						Cursusinformatie
+						Rooster
+						Opdrachten
+						Ingeleverd werk 
+						Leermiddelen
+						Documentenwerkplaats
+						Pagina's
+				Portfolio's
+					Portfolio
+						Introductie
+						Curriculum Vitae
+						Persoonlijk Ontwikkelingsplan
+						Beroepsidentiteit
+						Competentieprofiel
+						Reflecties
+						Bewijsstukken
+				Projecten
+					Project
+						Nieuws
+						Projectinformatie
+						Werkpakketten
+						Projectleden
+						Documenttypen
+						Planning
+						Projectfasen
+						Gedeelde Documenten
+			TeleTOP life voor School of Education
+			TeleTOP life voor Getronics Pink Roccade
+				Trainingen
+					Cursus
+						Nieuws
+						Cursusinformatie
+						Rooster
+						Opdrachten
+						Ingeleverd werk 
+						Leermiddelen
+						Documentenwerkplaats
+						Pagina's
+				Specials
+					Cursus
+						Nieuws
+						Cursusinformatie
+						Rooster
+						Opdrachten
+						Ingeleverd werk 
+						Leermiddelen
+						Documentenwerkplaats
+						Pagina's
+				Maatwerk
+					Cursus
+						Nieuws
+						Cursusinformatie
+						Rooster
+						Opdrachten
+						Ingeleverd werk 
+						Leermiddelen
+						Documentenwerkplaats
+						Pagina's
+				Portfolio's
+					Portfolio
+						Introductie
+						Curriculum Vitae
+						Persoonlijk Ontwikkelingsplan
+						Beroepsidentiteit
+						Competentieprofiel
+						Reflecties
+						Bewijsstukken
+			TeleTOP life voor Corlaer
+				Startpagina
+					Wat houdt expeditie Corlaer in?
+						Teams
+						Leerlingen
+					Google Map
+				Corlaer Expedities
+					Expeditie
+						Startpagina
+							Welkom op deze site
+							Logo
+							Chatterbox
+							Expeditieleden
+						Communicatie
+							Agenda
+							Chatbox
+							Deelneemers
+						Media
+							Foto's
+							Links
+							Video's
+						Organisatie
+							Mededelingen
+							Project taken
+							Talentontwikkeling
+						Samenwerking
+							Achtergrondinformatie
+							Discussieforum
+							Projectplan maken
+				TeleTOP elo
+				Webmail
+	2009
+		Onderzoek
+			Gebruik van bestaande leermiddelen (Import)
+			Publicatie
+			Contentmanagent
+			Integratie WEB2.0 functionaliteit
+			Arrangeren van leermiddelen
+			Toetsing
+			Planningstools
+			Rapportage	
+		Ontwikkeling	
+			Sharepoint LMS
+				Lms
+				Video upload
+				Import blackboard courses
+				Reports
+				Repositories
+				Miniweb
+				Learning path
+				Quiz
+				Certificaten
+				Gradebook
+				Ephorus
+				Attendance
+				Chat
+				Tracking
+				Groups
+		Projecten
+			TeleTOP life Cals college nieuwegein
+			TeleTOP life voor Corlaer
+	2010
+		Beheer
+			Contentbeheer
+				Items
+				Sets
+			Gebruikers
+				Aanvraag
+				Aanmaken
+				Toewijzen
+				Archiveren
+			Sites
+				Aanvraag
+				Aanmaken
+				Toewijzen
+				Archiveren
+			Gegevens
+				Rapportage
+		Weergave
+			Visuele weergave van gegevens (rapportages)
+				Grafieken van data
+				Voortgang
+				Gebruik
+				Kaartweergaven (Locaties op de kaart met gebruik van geodata)
+				Agendaweergaven
+			Studieplanner (TeleTOP Rooster)
+				Organisatie
+			Rapportage
+				Aggregatie van data, 
+				gradebook
+			Video-integratie
+				YouTube
+				Mediaportal.surfnet.nl
+			Lay out
+				Grafische User Interface
+				Mobiele weergave	
+			Koppelingen
+				Koppelingen repositories (o.a. LOREnet, Edurep, Onderwijs Media Platform)
+					OAI PMH
+					RSS
+					Wiki
+					SRU/SRW
+					Koppelingen met registratiesystemen
+					Integratie met Social Networks (o.a. Hyves, YouTube, Delicious, Flickr, Twitter, OpenSocial)
+					Webservices
+		Cijferadministratie
+		Onderwijskundig
+			Groepen
+				Ondersteuning voor groepen
+			Toetsing
+				Open vragen
+				SharePoint Learning Kit (SCORM RTE)
+				Opdrachten
+				Taken
+				Meerkeuze
+			Arrangeren
+				Planning
+				Studenten vakkenplanner
+				Leerplanontwikkeling
+				Sjablonen voor onderwijs
+				Curriculum planner
+				Cursusplanner, Rooster
+				leerplan generator
+				Simple Sequencing
+				Learning paths
+				Leerlijnen
+				Leerpaden
+				Methode planner (DST)
+				Competentieplanner
+			Interactie
+				Messaging
+				Chat
+				MSN 
+				Skype
+				TeleTOP buddy
+	Overig
+		Onderwijsevaluatie
+		Accreditatie
+		Evaluatie
+		Instrumenten toolbox
+		Resources
+		Studiebelasting
+		Klassenboek
+		Portfolio's
+		Competentieplanner
+		Projecten
+		Administratieomgeving
+		Aanvragen omgevingen
+		Aanvragen accounts
+		Goedkeuren sites
+		Packageplayer
+		Blackboard
+		Miniwebs
+		Competence centre
